@@ -1,0 +1,8 @@
+name: customer_support_env
+description: Real-world customer support simulation
+entry_point: env.py
+
+tasks:
+  - name: easy_classification
+  - name: medium_priority
+  - name: hard_response_generation
